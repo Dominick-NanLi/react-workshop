@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import { Header } from "./components/header";
+import { PersonalInfo } from "./components/personal-info";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Header />
+    <PersonalInfo />
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,0 +1,29 @@
+.personal-info-form{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.personal-info{
+    margin-left: 15px;
+    padding-top: 20px;
+}
+
+.title-text{
+    margin-left: 15px;
+    font-weight: bold;
+}
+
+.input-field{
+    margin-left: 15px;
+    font-size: 16px;
+}
+
+.submit-button{
+    margin-left: 15px;
+    color: white;
+    background-color: black;
+    margin-top: 5px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
